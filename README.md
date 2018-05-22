@@ -3,13 +3,13 @@
 - https://en.wikipedia.org/wiki/Duck_typing
 - https://stackoverflow.com/questions/4205130/what-is-duck-typing
 
-It is a term used in dynamic languages that do not have strong typing.
+It is a term used in [dynamic languages](http://en.wikipedia.org/wiki/Dynamic_programming_language) that do not have [strong typing](http://en.wikipedia.org/wiki/Strong_typing).
 
 The idea is that you don't need a type in order to invoke an existing method on an object - if a method is defined on it, you can invoke it.
 
 The name comes from the phrase "If it looks like a duck and quacks like a duck, it's a duck".
 
-Wikipedia has much more information.
+[Wikipedia](https://en.wikipedia.org/wiki/Duck_typing) has much more information.
 
 ```python
 class Parrot:
