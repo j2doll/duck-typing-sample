@@ -68,6 +68,7 @@ func main() {
 ```
 
 ```cpp
+// duck-typing.cpp
 class Duck {
 public:
     void quack() {
